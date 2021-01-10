@@ -1,5 +1,3 @@
-# animal-world
-choose the animal you want with numbers!
 camel = r"""
 Switching on the camera in the camel habitat...
  ___.-''''-.
